@@ -1,5 +1,5 @@
-Hi 👋 My name is Aaron Bentley 
-==============================  
+Hi 👋 My name is Aaron 
+======================
 
 Senior Developer at NOSY 
 ------------------------  
