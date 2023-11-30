@@ -7,8 +7,9 @@ Senior Developer at NOSY
 Developer, Husband, Dad, Halo veteran, Mac aficionado & evangelist of all things awesome.  
 
 * 🌍 I'm based in United Kingdom 
-* 🖥️ See my portfolio at [SlinkyPixels.io](http://slinkypixels.io) 
-* 🚀 I'm currently working on [MC Dungeons Loot Hunter](http://minecraftdungeonsloothunter.app) 
+* 🖥️ See my portfolio at [SlinkyPixels.io](https://slinkypixels.io) 
+* 🚀 I'm currently working on [SoopaNova](https:/soopanova.app)
+* 🚀 I'm recently worked on [MC Dungeons Loot Hunter](https://minecraftdungeonsloothunter.app) 
 * 🧠 I'm learning TypeScript, Tailwind & Svelte 
 * 🥓 I love bacon
 
