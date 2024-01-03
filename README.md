@@ -10,6 +10,7 @@ Developer, Husband, Dad, Halo veteran, Mac aficionado & evangelist of all things
 * 🖥️ See my portfolio at [SlinkyPixels.io](https://slinkypixels.io) 
 * 🚀 I'm currently working on [SoopaNova](https:/soopanova.app)
 * 👨‍💻 I recently worked on [MC Dungeons Loot Hunter](https://minecraftdungeonsloothunter.app) 
+* 💼 I'm currently a senior dev at [NOSY Agency](https://nosy.agency)
 * 🧠 I'm studying up on TypeScript & Figma
 * 🥓 I love bacon
 
