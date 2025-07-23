@@ -11,7 +11,7 @@ Developer, Husband, Dad, Halo veteran, Mac aficionado & evangelist of all things
 * 🚀 I'm currently working on [SoopaNova](https://soopanova.app)
 * 👨‍💻 I recently worked on [MC Dungeons Loot Hunter](https://minecraftdungeonsloothunter.app) 
 * 💼 I'm currently a senior dev at [NOSY Agency](https://nosy.agency)
-* 🧠 I'm studying up on TypeScript & Figma
+* 🧠 I'm studying up on making Figma cry less and sleeping more
 * 🥓 I love bacon
 
 ### Skills  
